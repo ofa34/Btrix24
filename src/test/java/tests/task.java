@@ -7,4 +7,8 @@ public class task {
   //this line comes from github
   // hello mösyo idris
 }
+ public String hello(){
+  return "Hello from github";
+}
+ 
 }
